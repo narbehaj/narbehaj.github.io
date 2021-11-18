@@ -1,6 +1,6 @@
 # Check Server’s Disk Health Behind Hardware RAID
 
-![](drive.jpg)
+![](assets/img/drive.jpg)
 
 There are many disk monitoring tools available but what I use for almost everywhere is the SMART tool (`smartmontools`) which has a [support of NVMe storages](http://support of NVMe storages) too.
 

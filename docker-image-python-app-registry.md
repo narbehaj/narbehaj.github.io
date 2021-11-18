@@ -1,6 +1,6 @@
 # Create a Docker image for a Python app and push it to the registry
 
-![](docker.png)
+![](assets/img/docker.png)
 
 While ago I was developing [SSL Checker](https://github.com/narbehaj/ssl-checker) python script o check hosts’ SSL/TLS certificates and extract useful information about them. Check the script on [GitHub page](https://github.com/narbehaj/ssl-checker) to figure out more about this. After various adjustments and  enhancements, I chose to start a Docker image as well. It’s much more  comfortable to build or pull from the registry and run on environments  rather than cloning.
 
@@ -10,7 +10,7 @@ While ago I was developing [SSL Checker](https://github.com/narbehaj/ssl-checker
 
 Dockerfile is an effortless way to  instruct Docker how you need or want to make your container’s image to  be like. There are millions of images available online for any project,  you can create your own image too for the sake of simplicity while in  the development environment.
 
-![](docker-image.jpg)
+![](assets/img/docker-image.jpg)
 
 For the project that I own, I need a  base image to start building my components on. Just think of an  application that is required to be built on an operating system,  including the dependencies and required packages and modules.
 
@@ -131,7 +131,7 @@ b986ceddf07c: Mounted from library/python
 
 Now go to your profile in Docker Hub, you will see the newly pushed image.
 
-![](docker-hub.png)
+![](assets/img/docker-hub.png)
 
 It’s now easy for anyone to pull the image by running the following command:
 

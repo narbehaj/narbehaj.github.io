@@ -1,6 +1,6 @@
 # Free Up Space After Removing Log File in Linux
 
-![](linux_fd.png)
+![](assets/img/linux_fd.png)
 
 There were so many times that I faced this situation where we simply  removing (rm command) log files while the service is still running. What is happening here? Well, the process still uses that file to write the  logs, that means the process won’t release the file until it gets the  signal like what rsyslog does.
 

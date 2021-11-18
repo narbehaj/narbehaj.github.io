@@ -1,10 +1,10 @@
 # Help, I lost all pinned and opened tabs in Firefox!
 
-![](firefox-logo.jpg)
+![](assets/img/firefox-logo.jpg)
 
 On average, I have 3-4 pinned tabs with nearly 20 opened items. My  Firefox is always up and I never close it except on reboot or such. One  day, I opened a new window in another workspace, then closed the main  window accidentally which included my 1 year opened tabs. What happened  then, I couldn’t restore the previous session which was the recently  opened window so I lost all of them. 
 
-I should’ve sifted through into my history to restore them  one-by-one. After exploring the Internet, I figured out that people had  the same problem, and luckily Firefox stores and backs up the session  files.
+I should’ve sifted through into my history to restore them one-by-one. After exploring the Internet, I figured out that people had  the same problem, and luckily Firefox stores and backs up the session  files.
 
 ## Solution: Session History Files
 
@@ -14,9 +14,9 @@ To access the files, enter `about:support` in the address bar and press enter. T
 
 Right there, you will see a directory named `sessionstore-backups` which contains your session files.
 
-![](about_firefox.png)
+![](assets/img/about_firefox.png)
 
-![](firefox_data.png)
+![](assets/img/firefox_data.png)
 
 There are a couple of files here which are:
 
@@ -26,4 +26,4 @@ There are a couple of files here which are:
 
 These are all compressed with LZ4 method and you need a tool for that. There is a website for doing this. Go to [Scrounger tool](https://www.jeffersonscher.com/res/scrounger.html) and upload your `previous.jsonlz4` file and extract the tabs.
 
-![](firefox_restore.png)
+![](assets/img/firefox_restore.png)
