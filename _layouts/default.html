@@ -38,16 +38,6 @@
           <a class="icons" href="http://narbeh.org/narbeh.asc"><i class="fa fa-key" aria-hidden="true"></i></a>
         </ul>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
-
-
         {% if site.show_downloads %}
         <ul class="downloads">
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
