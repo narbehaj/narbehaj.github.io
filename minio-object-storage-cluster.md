@@ -6,7 +6,7 @@ author: Narbeh
 
 # Deploying Your Own Distributed Object Storage Cluster With MinIO
 
-![](minio_logo.jpeg)
+![](assets/img/minio_logo.jpeg)
 
 Despite Ceph, I like [MinIO](https://min.io/) more, it’s so easy to use and easy to deploy. Even the clustering is  with just a command. I used Ceph already and it’s so robust and powerful but for small and mid-range development environments, you might need to set up a full-packaged object storage service to use S3-like commands  and services.
 
@@ -26,7 +26,7 @@ I have 3 nodes. It is possible to attach extra disks to your nodes to have much 
 
 **Since we are going to deploy the distributed service of MinIO, all the data will be synced on other nodes as well.** 
 
-![](minio-arch.png)
+![](assets/img/minio-arch.png)
 
 Let’s download the `minio` executable file **on all nodes**:
 
@@ -95,7 +95,7 @@ Unable to read 'format.json' from http://10.19.2.101:9000/minio1: Post http://10
 
 So after this, fire up the browser and open one of the IPs on port 9000.
 
-![](minio-instances-load-balanced.png)
+![](assets/img/minio-instances-load-balanced.png)
 
 The cool thing here is that if one of  the nodes goes down, the rest will serve the cluster. Nginx will cover  the load balancing and you will talk to a single node for the  connections. You can use other proxies too, such as HAProxy.
 
@@ -166,4 +166,4 @@ http {
 
 What we will have at the end, is a clean and distributed object storage.
 
-![](minio-web.png)
+![](assets/img/minio-web.png)
