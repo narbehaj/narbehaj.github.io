@@ -1,3 +1,9 @@
+---
+layout: post
+title: Deploying Your Own Distributed Object Storage Cluster With MinIO
+author: Narbeh
+---
+
 # Deploying Your Own Distributed Object Storage Cluster With MinIO
 
 ![](minio_logo.jpeg)
