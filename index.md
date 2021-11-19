@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Narbeh Arakil
 ---
 ## GitHub Projects
   * [Python SSL Checker](https://github.com/narbehaj/ssl-checker)
