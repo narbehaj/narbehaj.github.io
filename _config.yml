@@ -5,6 +5,9 @@ favicon: true
 color-scheme: auto
 permalink: /:title:output_ext
 
+github:
+  is_project_page: false
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
