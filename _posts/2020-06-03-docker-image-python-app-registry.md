@@ -1,4 +1,10 @@
-# Create a Docker image for a Python app and push it to the registry
+---
+layout: post
+title: "Create a Docker image for a Python app and push it to the registry"
+author: "Narbeh"
+date: 2020-06-03 12:30:43 +0300
+categories: linux
+---
 
 ![](assets/img/docker.png)
 

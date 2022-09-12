@@ -1,4 +1,10 @@
-# Check Server’s Disk Health Behind Hardware RAID
+---
+layout: post
+title: "Check server’s disk health behind hardware RAID"
+author: "Narbeh"
+date: 2020-07-10 14:20:43 +0300
+categories: linux smart raid servers
+---
 
 ![](assets/img/drive.jpg)
 

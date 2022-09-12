@@ -1,5 +1,43 @@
 title: Narbeh Arakil
-#logo: /assets/img/logo.png
-description: GNU/Linux system administrator and DevOps engineer
-show_downloads: false
-theme: jekyll-theme-minimal
+logo: /assets/img/me.jpg
+description: SRE/DevOps Engineer
+favicon: true
+color-scheme: auto
+permalink: /:title:output_ext
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
+
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/NarbehAj
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/narbehaj
+  - name: Twitter
+    icon: <i class="fa-brands fa-twitter"></i>
+    link: https://twitter.com/NarbehAj
+  - name: YouTube
+    icon: <i class="fa-brands fa-youtube"></i>
+    link: https://www.youtube.com/channel/UCbZhjxb5nLRb63Ga7Uw3yZg
+  - name: 500px Gallery
+    icon: <i class="fa-brands fa-500px"></i>
+    link: https://500px.com/p/narbeh
+  - name: Email
+    icon: <i class="fa fa-envelope"></i>
+    link: mailto:narbeh@protonmail.com
+  - name: PGP Key
+    icon: <i class="fa fa-key"></i>
+    link: http://narbeh.org/narbeh.asc
+
+# navigation:
+  # - name: Home
+    # link: ./index.html
+    # sublist:
+     # - name: Image
+       # link: ./index.html#small-image
+  # - name: 
+    # link: ./another-page.html

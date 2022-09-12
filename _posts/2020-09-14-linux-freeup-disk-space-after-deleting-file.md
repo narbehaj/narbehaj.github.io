@@ -1,4 +1,10 @@
-# Free Up Space After Removing Log File in Linux
+---
+layout: post
+title: "Free up space after removing log file in Linux"
+author: "Narbeh"
+date: 2020-09-14 14:37:43 +0300
+categories: linux
+---
 
 ![](assets/img/linux_fd.png)
 

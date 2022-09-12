@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: post
+title: "Deploying your own distributed object storage cluster with MinIO"
+author: "Narbeh"
+date: 2021-03-21 14:37:43 +0300
+categories: minio object storage docker
 ---
-
-# Deploying Your Own Distributed Object Storage Cluster With MinIO
 
 ![](assets/img/minio_logo.jpeg)
 

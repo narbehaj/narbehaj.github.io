@@ -1,4 +1,10 @@
-# Help, I lost all pinned and opened tabs in Firefox!
+---
+layout: post
+title: "Help, I lost all pinned and opened tabs in Firefox!"
+author: "Narbeh"
+date: 2021-02-12 14:37:43 +0300
+categories: firefox
+---
 
 ![](assets/img/firefox-logo.jpg)
 
