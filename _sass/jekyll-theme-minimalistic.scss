@@ -23,6 +23,16 @@ img {
   max-width: 100%;
 }
 
+@media (min-width:961px) {
+.logo_pos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  }
+}
+
 .logo {
   -webkit-border-radius: 100%;
   -moz-border-radius: 100%;
