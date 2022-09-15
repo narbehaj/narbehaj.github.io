@@ -1,7 +1,10 @@
 title: Narbeh Arakil
 logo: /assets/img/me.jpg
-description: SRE/DevOps Engineer
+description: Personal webpage
+about: SRE/DevOps Engineer
 favicon: true
+url: https://narbeh.org
+author: Narbeh
 color-scheme: auto
 permalink: /:title:output_ext
 
