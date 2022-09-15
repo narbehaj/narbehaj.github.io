@@ -5,7 +5,7 @@ about: SRE/DevOps Engineer
 favicon: true
 url: https://narbeh.org
 author: Narbeh
-color-scheme: auto
+color-scheme: light
 permalink: /:title:output_ext
 
 github:
