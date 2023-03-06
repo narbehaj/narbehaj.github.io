@@ -20,9 +20,9 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/NarbehAj
-  - name: LinkedIn
-    icon: <i class="fa-brands fa-linkedin"></i>
-    link: https://www.linkedin.com/in/narbehaj
+#  - name: LinkedIn
+#    icon: <i class="fa-brands fa-linkedin"></i>
+#    link: https://www.linkedin.com/in/narbehaj
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/NarbehAj
