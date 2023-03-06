@@ -12,3 +12,6 @@ layout: default
 
 ## My latest photos from 500px
 {% include gallery.html %}
+
+## Currently-reading books
+{% include books.html %}
