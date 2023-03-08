@@ -10,8 +10,8 @@ layout: default
   * [Bash Backup Script](https://github.com/narbehaj/bash-backup)
   * [Zabbix NVMe Monitoring](https://github.com/narbehaj/zabbix-nvme)
 
-## My latest photos from 500px
-{% include gallery.html %}
-
 ## Currently-reading books
 {% include books.html %}
+
+## My latest photos from 500px
+{% include gallery.html %}
