@@ -23,9 +23,9 @@ platforms:
 #  - name: LinkedIn
 #    icon: <i class="fa-brands fa-linkedin"></i>
 #    link: https://www.linkedin.com/in/narbehaj
-  - name: Twitter
-    icon: <i class="fa-brands fa-twitter"></i>
-    link: https://twitter.com/NarbehAj
+#  - name: Twitter
+#    icon: <i class="fa-brands fa-twitter"></i>
+#    link: https://twitter.com/NarbehAj
   - name: YouTube
     icon: <i class="fa-brands fa-youtube"></i>
     link: https://www.youtube.com/channel/UCbZhjxb5nLRb63Ga7Uw3yZg
