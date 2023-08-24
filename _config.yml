@@ -29,6 +29,9 @@ platforms:
   - name: YouTube
     icon: <i class="fa-brands fa-youtube"></i>
     link: https://www.youtube.com/channel/UCbZhjxb5nLRb63Ga7Uw3yZg
+  - name: Goodreads
+    icon: <i class="fa-brands fa-goodreads"></i>
+    link: https://www.goodreads.com/user/show/147884869-narbeh
   - name: 500px Gallery
     icon: <i class="fa-brands fa-500px"></i>
     link: https://500px.com/p/narbeh
