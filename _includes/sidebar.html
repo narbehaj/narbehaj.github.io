@@ -7,20 +7,10 @@
   </ul>
   {% endif %}
 
-  {% if site.navigation %}
-  <h3 class="sidebar-h3">Contents:</h3>
-  <ul class="content">
-  {%- for item in site.navigation %}
-    <li><a href="{{ item.link }}">{{ item.name }}</a>
-        {% if item.sublist %}
-        <ul class="sublist">
-            {%- for subitem in item.sublist %}
-            <li><a href="{{ subitem.link }}">{{ subitem.name }}</a></li>
-            {%- endfor %}
-        </ul>
-        {% endif %}
-    </li>
-  {%- endfor %}
-  </ul>
+  {% if site.workout %}
+  <h3 class="sidebar-h3">Workout summary</h3>
+    {%- for workout in site.workout %}
+    <iframe position='relative' frameborder='0' allowtransparency='true' scrolling='no' src="{{ workout.link }}"></iframe>
+    {%- endfor %}
   {% endif %}
 </div>

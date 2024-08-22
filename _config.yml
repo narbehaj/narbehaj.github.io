@@ -20,21 +20,21 @@ platforms:
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
     link: https://github.com/NarbehAj
-#  - name: LinkedIn
-#    icon: <i class="fa-brands fa-linkedin"></i>
-#    link: https://www.linkedin.com/in/narbehaj
-#  - name: Twitter
-#    icon: <i class="fa-brands fa-twitter"></i>
-#    link: https://twitter.com/NarbehAj
+ # - name: LinkedIn
+ #   icon: <i class="fa-brands fa-linkedin"></i>
+ #   link: https://www.linkedin.com/in/narbehaj
+ # - name: Twitter
+ #   icon: <i class="fa-brands fa-twitter"></i>
+ #   link: https://twitter.com/NarbehAj
   - name: YouTube
     icon: <i class="fa-brands fa-youtube"></i>
     link: https://www.youtube.com/channel/UCbZhjxb5nLRb63Ga7Uw3yZg
   - name: Goodreads
     icon: <i class="fa-brands fa-goodreads"></i>
     link: https://www.goodreads.com/user/show/147884869-narbeh
-  - name: 500px Gallery
-    icon: <i class="fa-brands fa-500px"></i>
-    link: https://500px.com/p/narbeh
+  # - name: 500px Gallery
+  #   icon: <i class="fa-brands fa-500px"></i>
+  #   link: https://500px.com/p/narbeh
   - name: Email
     icon: <i class="fa fa-envelope"></i>
     link: mailto:narbeh@protonmail.com
