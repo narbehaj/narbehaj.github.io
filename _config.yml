@@ -32,7 +32,7 @@ platforms:
   - name: Goodreads
     icon: <i class="fa-brands fa-goodreads"></i>
     link: https://www.goodreads.com/user/show/147884869-narbeh
-  - name: Photography Gallery
+  - name: Photo Gallery
     icon: <i class="fa-brands fa-unsplash"></i>
     link: https://unsplash.com/@narbehaj
   - name: Email
